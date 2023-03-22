@@ -2,7 +2,7 @@ import React from 'react';
 import deckbuilder from '../deckbuilder-screenshot.png';
 import fitness from '../fitness-tracker.png';
 import password from '../password-generator-screenshot.png';
-import refactor from '../refactor-code-screenshot.png';
+import meal from '../meal-train-screenshot.png';
 import planner from '../daily-planner-screenshot.png';
 import weather from '../weather-dashboard-screenshot.png';
 import { FaGithub } from "react-icons/fa";
@@ -50,11 +50,11 @@ const project = [
     },
     {
         id: 6,
-        name: 'Refactoring Code',
-        imageSrc: refactor,
-        imageAlt: "site with refactored html",
-        github: 'https://github.com/mmmatson/refactor-code',
-        site: 'https://mmmatson.github.io/refactor-code/',
+        name: 'Meal Plannner',
+        imageSrc: meal,
+        imageAlt: "meal planner application",
+        github: 'https://github.com/TrilogyHi5/meal-train',
+        site: 'https://meal-train.herokuapp.com/',
     },
 ]
 
